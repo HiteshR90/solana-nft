@@ -1,14 +1,19 @@
 {
-	"name": "Ambi",
-	"symbol": "AMB",
-	"image": "0.png",
-	"properties": {
-		"files": [{ "url": "0.png", "type": "image/png" }],
-		"creators": [
-			{
-				"address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
-				"share": 100
-			}
-		]
-	}
+    "name": "San Jose",
+    "symbol": "SAN",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "6fHLjyXrUcHTQ9peVg3KdPCCvXmUKc5b17vVudXViKD8",
+                "share": 100
+            }
+        ]
+    }
 }

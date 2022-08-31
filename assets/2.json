@@ -1,14 +1,19 @@
 {
-	"name": "Remo",
-	"symbol": "REM",
-	"image": "2.png",
-	"properties": {
-		"files": [{ "url": "2.png", "type": "image/png" }],
-		"creators": [
-			{
-				"address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
-				"share": 100
-			}
-		]
-	}
+    "name": "Ahmedabad",
+    "symbol": "AHM",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "6fHLjyXrUcHTQ9peVg3KdPCCvXmUKc5b17vVudXViKD8",
+                "share": 100
+            }
+        ]
+    }
 }
